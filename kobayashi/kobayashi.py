@@ -1,0 +1,2 @@
+def kobayashi():
+    print('kobayashi')
